@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://erwinarif31.github.io/Collab-Landing-Page/">
       Demo
     </a>
     <span> | </span>
